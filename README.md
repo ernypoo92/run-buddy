@@ -13,3 +13,5 @@ https;//lertantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Aaron Jones
+
+### ©️2019 Run Buddy, Inc
